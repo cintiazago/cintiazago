@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   Hi 👋, I'm Cintia Zago
 </h1>
 
-<h3 align="center">A Fullstack Developer who loves technology and solving problems!</h3>
+<h3 align="center">A Fullstack Developer who loves solving problems!</h3>
 
 - 🔭 I’m currently working on a project called "FII Income Estimate" to help investors make better decisions!
 - 🌱 I’m currently learning everything 🤣
