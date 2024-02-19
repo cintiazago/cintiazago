@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <h3 align="center">A Fullstack Developer who loves solving problems!</h3>
 
 - 🔭 I’m currently working on a project called "FII Income Estimate" to help investors make better decisions!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators and open source projects
+- 🌱 I’m currently learning about Artificial Intelligence
+- 👯 I’m looking to collaborate with other content creators and open-source projects
 - 💬 Ask me about technology, TV shows, movies and music, software development and personal improvement
-- ⚡ Fun fact: I'm addicted to TV Shows, movies and good music!
+- ⚡ Fun fact: I'm addicted to TV Shows, movies, and good music!
 
 ### Connect with me
 
